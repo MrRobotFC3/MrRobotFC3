@@ -1,6 +1,6 @@
 -  Hi, I’m Anmol
 -  I’m interested in Cyber Security and Software Development
--  I’m currently pursuing Master of Computer Application from Amity University, Noida,  India
+-  I’m currently pursuing Master of Computer Application 
 -  How to reach me anmolsinghpatelfc3@gmail.com
 
 <!---
