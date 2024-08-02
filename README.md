@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Anmol
-- 👀 I’m interested in Cyber Security, Software Development, Network Management
-- 🌱 I’m currently learning Data Structure and Algorithm Design
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me anmolsinghpatelfc3@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a student at Amity University, Noida 
+-  Hi, I’m Anmol
+-  I’m interested in Cyber Security and Software Development
+-  I’m currently pursuing Master of Computer Application from Amity University, Noida,  India
+-  How to reach me anmolsinghpatelfc3@gmail.com
 
 <!---
 MrRobotFC3/MrRobotFC3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
