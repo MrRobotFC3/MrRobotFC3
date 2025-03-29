@@ -18,7 +18,7 @@ I am an MCA student at Amity University Noida, passionate about software develop
    - Designed a web application providing real-time weather data.
    - Implemented HTML, CSS, JavaScript, JSP and integrated external API for accuracy.
 
-###  Forum for Sports Fans
+###  Sports Fans Forum
    - Developed a web-based discussion platform for sports enthusiasts.
    - Included authentication, user-generated posts, and real-time interactions.
 
